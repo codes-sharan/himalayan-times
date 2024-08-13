@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.Web-page {
+
+    margin: 0% 12%;
+}
+
+.NewsContainer {
+    display: flex;
+}
+
+.NewsContainer NewsItem {
+    display: flex;
+    height: 100px;
+    width: 100px;
+}

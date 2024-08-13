@@ -1,0 +1,49 @@
+/* Header.css */
+.TopHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+  }
+  
+  .TopHeader-left {
+    font-size: 14px;
+  }
+
+  .TopHeader-right {
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+  }
+  
+  .Social-media  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+  }
+
+  .Social-media a {
+    display: flex;
+    height: 24px;
+    gap: 15px;
+  }
+
+  
+.Social-media a:hover {
+    color: #d35959;
+  }
+
+  
+.search-bar {
+    padding: 5px 10px;
+    width: 100px;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 15px; /* Space between icons and search bar */
+  }

@@ -1,0 +1,27 @@
+.Header-image {
+    text-align: center;
+}
+
+.Header-image2 {
+    height: 70px;
+}
+
+.Nav-bar {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1.5px solid black;
+    border-bottom: 2.5px solid black;
+    /* padding: 8px 8px; */
+}
+
+.Nav-bar a{
+ text-decoration: none;
+ padding: 8px 8px;
+ display: inline-block;
+}
+
+.Nav-bar a:hover {
+    background-color:brown;
+    color: white;
+    padding: 8px 8px;
+}

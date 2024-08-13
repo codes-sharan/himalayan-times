@@ -1,0 +1,11 @@
+.News-item {
+    background-color: whitesmoke;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.News-item img {
+    height: 200px;
+    width: 250px;
+}

@@ -1,0 +1,41 @@
+.Footer-all {
+    color: black;
+    font-size: 14;
+}
+
+.Footer-links {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content:center;
+}
+
+.Footer-links li {
+    gap: 20px;
+    margin: 5px 20px;
+}
+
+.Footer-links li a{
+    text-decoration: none;
+}
+
+.Footer-social {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footer-social li {
+    gap: 20px;
+    margin:5px 20px
+}
+
+.Footer-social li a{
+    text-decoration: none;
+}
+
+.Footer-text {
+    text-align: center;
+}
+
